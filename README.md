@@ -1,5 +1,11 @@
 # beast-slayer
 
-This project was a text-based game for Computer Programming. 
-It's a python file, so to run it, you'll have to copy the path into the Command Prompt. Every time it's finished running, it
-  should be closed and reopened.
+This project was a text-based game for Computer Programming.
+
+It's a python file, so to run it, you'll have to copy the path into the Command Prompt.
+Steps:
+1. Download the file
+2. Shift-click to copy the file path
+3. Open the command prompt (type 'cd' into the windows search bar)
+4. Paste the file path
+5. Run the code (press enter)
