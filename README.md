@@ -1,6 +1,6 @@
 # beast-slayer
 
-This project was a text-based game for Computer Programming. (10th Grade)
+This project was a text-based game for an assignment in my sophomore year of highschool.
 
 It's a python file, so to run it, you'll have to copy the path into the Command Prompt.
 Steps:
